@@ -1,8 +1,9 @@
-# React + Vite
+# Sneaker Product Web Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the Sneaker Product Web Page! Explore our stylish sneaker and experience its unique design.
 
-Currently, two official plugins are available:
+Visit the website: [https://sneakers-product-web-page.netlify.app/]
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Visit the original FrontEnd Mentor challenge : [https://www.frontendmentor.io/challenges/ecommerce-product-page-UPsZ9MJp6]
+
+Happy exploring and stay stylish!
